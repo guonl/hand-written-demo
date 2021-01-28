@@ -12,5 +12,16 @@
     <artifactId>hand-written-netty</artifactId>
     <description>手写一个简单的netty框架</description>
 
+    <dependencies>
+
+        <dependency>
+            <groupId>io.netty</groupId>
+            <artifactId>netty-all</artifactId>
+            <version>5.0.0.Alpha2</version>
+        </dependency>
+
+
+    </dependencies>
+
 
 </project>
