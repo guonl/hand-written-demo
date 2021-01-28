@@ -21,5 +21,10 @@ public class HtmlController {
         return "one2one";
     }
 
+    @GetMapping("/task")
+    public String task(){
+        return "task/task";
+    }
+
 
 }
