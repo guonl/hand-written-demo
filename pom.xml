@@ -18,6 +18,7 @@
         <module>hand-written-mybatis</module>
         <module>hand-written-dubbo</module>
         <module>hand-written-blockchain</module>
+        <module>hand-written-websocket</module>
     </modules>
 
     <parent>
